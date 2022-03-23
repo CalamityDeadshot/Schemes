@@ -39,3 +39,6 @@ This code will generate a simple flowchart.
 ![image](https://user-images.githubusercontent.com/44675043/159743322-018e0207-0f0d-42e3-a821-6398c071292a.png)
 
 The main idea of this project is to use OOP to its fullest extent.
+
+## Saving to JSON
+The flowchart can also be saved in a JSON format, like [this](https://github.com/CalamityDeadshot/Schemes/blob/master/scheme.txt)
